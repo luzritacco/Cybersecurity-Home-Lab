@@ -10,7 +10,8 @@ In this Project I had learned how to create a cybersecurity home-lab from scratc
 
 #### Here's a fragment of my detail- paper:
 
-![Screenshot 2024-02-14 004407](https://github.com/luzritacco/Cybersecurity-Home-Lab/assets/151267325/e95fcc88-2443-4abc-b9e7-228580b06d0b)
+![Screenshot 2024-02-14 005729](https://github.com/luzritacco/Cybersecurity-Home-Lab/assets/151267325/011388ef-0c84-47f1-a19e-cddeee69a776)
+
 
 ##
 <h3 align="center"> The network diagram displays the layout, design, and topology of my cybersecurity lab setup.
