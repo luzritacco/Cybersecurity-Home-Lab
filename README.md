@@ -6,7 +6,7 @@ In this Project I had learned how to create a cybersecurity home-lab from scratc
 
 
 ##
-<h3 align="center">My paper provides a comprehensive overview of the tools and services that I use in my security home lab. I describe the functionality, purpose, and relevance of each tool and service in the context of the security industry. I also demonstrate how I can apply them to real world scenarios and challenges that security professionals face. My paper aims to showcase my skills and knowledge in security testing, analysis, and research.</h3>
+<h3 align="center">My paper provides a comprehensive overview of the tools and services that I use in my security home lab. I describe the functionality, purpose, and relevance of each tool and service in the context of the security industry.</h3>
 
 #### Here's a snippet of the paper:
 <h3 align="center"> <img width="504" alt="Screenshot 2023-08-13 at 3 45 37 PM" src="https://github.com/ellaowens/Cybersecurity-Lab/assets/114102710/f43636d7-c38a-4d74-b6d8-9d5aa614ff1f"> </h3>
