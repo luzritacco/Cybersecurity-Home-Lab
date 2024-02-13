@@ -5,7 +5,8 @@ As part of my learning experience at TKH, I designed and implemented a Cybersecu
 In this Project I had learned how to create a cybersecurity home-lab from scratch. I used Gliffy to create a network diagram that showed the topology and configuration of my security home lab. Also, I use VirtualBox to run Ubuntu desktop as your host machine and install pfSense as a firewall to protect your network simulations.I used configure Snort as an intrusion detection system and use Splunk as a security information and event management (SIEM) tool, use Metasploitable2 as target/victim Virtual machine. Finally,I had set up Kali Linux as an attacker machine to perform various penetration testing scenarios.
 
 
-##<h3 align="center">My paper provides a comprehensive overview of the tools and services that I use in my security home lab. I describe the functionality, purpose, and relevance of each tool and service in the context of the security industry. I also demonstrate how I can apply them to real world scenarios and challenges that security professionals face. My paper aims to showcase my skills and knowledge in security testing, analysis, and research.</h3>
+#
+<h3 align="center">My paper provides a comprehensive overview of the tools and services that I use in my security home lab. I describe the functionality, purpose, and relevance of each tool and service in the context of the security industry. I also demonstrate how I can apply them to real world scenarios and challenges that security professionals face. My paper aims to showcase my skills and knowledge in security testing, analysis, and research.</h3>
 
 #### Here's a snippet of the paper:
 <h3 align="center"> <img width="504" alt="Screenshot 2023-08-13 at 3 45 37 PM" src="https://github.com/ellaowens/Cybersecurity-Lab/assets/114102710/f43636d7-c38a-4d74-b6d8-9d5aa614ff1f"> </h3>
