@@ -9,13 +9,14 @@ In this Project I had learned how to create a cybersecurity home-lab from scratc
 <h3 align="center">My paper provides a comprehensive overview of the tools and services that I use in my security home lab. I describe the functionality, purpose, and relevance of each tool and service in the context of the security industry.
 
 #### Here's a fragment of my detail- paper:
+##
 
 ![Screenshot 2024-02-14 005729](https://github.com/luzritacco/Cybersecurity-Home-Lab/assets/151267325/011388ef-0c84-47f1-a19e-cddeee69a776)
 
 
 ##
 <h3 align="center"> Here's the network diagram -layout- topology of my cybersecurity home  lab setup:
-
+##
 
 ![Screenshot 2024-01-03 191635](https://github.com/luzritacco/Cybersecurity-Home-Lab/assets/151267325/0022d569-361b-457e-8f87-cc7ddd4f88e6)
 
