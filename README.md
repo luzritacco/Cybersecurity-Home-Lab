@@ -14,7 +14,7 @@ In this Project I had learned how to create a cybersecurity home-lab from scratc
 
 
 ##
-<h3 align="center"> The network diagram displays the layout, design, and topology of my cybersecurity lab setup.
+<h3 align="center"> The network diagram -layout- topology of my cybersecurity home  lab setup:
 
  <img width="468" alt="image" src="https://github.com/ellaowens/Cybersecurity-Lab/assets/114102710/e8952ce4-33eb-4ab6-9f54-d827d2610c2a"></h3>
 
