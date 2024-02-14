@@ -74,8 +74,18 @@ In this Project I had learned how to create a cybersecurity home-lab from scratc
 <h3 align="center"> Here some issues I went into during the installation and setting up process:
 
 ##
-**☑ Metasplitable2 installation** I had some issues installing Metasploitable2 in the VirtualBox such as:
+**☑ Metasplitable2 installation:** I had some issues installing Metasploitable2 in the VirtualBox such as:
 + The virtual machine gets stuck at the startup screen.
 + The installation process fails due to an error.
 + The virtual machine does not boot after installation.
+I spent a lot of time trying to fix the installation issues. I followed the troubleshooting steps, but nothing worked. I had to uninstall and reinstall the software several times, but I still encountered errors. I need assistance so I can be guided through the process and had helped on resolve the problem. Finally, I was able to install a working machine.
+
+**☑ PFSense Updating:** when I did the installation of pfSense in the virtual machine I used version 2.7.0 which worked fine, I was able to Install Snort Packets but when I was try the home lab, I had to update to version 2.7.2 which created an error on Snort packets I had to Re-install Snort.
+
+**☑ Ubuntu installation:** I was using Desktop the Installation was a straightforward process. I installed the PFSense & Snort and ended It was running perfect but when I was trying to test the home lab had several compatibility issues, such as unable to login in pfSense, Firefox was too slow, I end up uninstalling & reinstalling Ubuntu and declining automatic updates for Ubuntu. 
+**☑ Kali-Linux installation:** I successfully downloaded and set up a new virtual machine in VirtualBox. It was the first software I installed, but I encountered few problems when I did the updated version of the VirtualBox from 6.1 to 7.1 version. I could not get it to work, so I uninstalled and reinstalled the software.
+
+**☑ Home-Lab Topology:** My initial plan was to set up a home lab topology using ubuntu Desktop and install pfsense-Snort packets on it. However, I encountered a few problems with the first installation and had to switch to kali-Linux instead. This also required me to modify few of the drawings.
+
+**☑One of the final issues:** I ran into was having internet connectivity on Ubuntu or Kali machine, making unable to access pfSense and Splunk Enterprise interfaces. The issue was resolve by checking the settings of each VM and ensuring that they had the correct internal network and/or bridged adapter configured. This also required VM restarts after changing the network settings. (it was time consuming and frustration process for this part of the lab settings).
 
