@@ -82,29 +82,29 @@ I spent a lot of time trying to fix the installation issues. I followed the trou
 
 **☑ PFSense Updating:** when I did the installation of pfSense in the virtual machine I used version 2.7.0 which worked fine, I was able to Install Snort Packets but when I was try the home lab, I had to update to version 2.7.2 which created an error on Snort packets I had to Re-install Snort.
 
-**☑ Ubuntu installation:** I was using Desktop the Installation was a straightforward process. I installed the PFSense & Snort and ended It was running perfect but when I was trying to test the home lab had several compatibility issues, such as unable to login in pfSense, Firefox was too slow, I end up uninstalling & reinstalling Ubuntu and declining automatic updates for Ubuntu. 
+**+ Ubuntu installation:** I was using Desktop the Installation was a straightforward process. I installed the PFSense & Snort and ended It was running perfect but when I was trying to test the home lab had several compatibility issues, such as unable to login in pfSense, Firefox was too slow, I end up uninstalling & reinstalling Ubuntu and declining automatic updates for Ubuntu. 
 
 
-**☑ Kali-Linux installation:** I successfully downloaded and set up a new virtual machine in VirtualBox. It was the first software I installed, but I encountered few problems when I did the updated version of the VirtualBox from 6.1 to 7.1 version. I could not get it to work, so I uninstalled and reinstalled the software.
+**+ Kali-Linux installation:** I successfully downloaded and set up a new virtual machine in VirtualBox. It was the first software I installed, but I encountered few problems when I did the updated version of the VirtualBox from 6.1 to 7.1 version. I could not get it to work, so I uninstalled and reinstalled the software.
 
-**☑ Home-Lab Topology:** My initial plan was to set up a home lab topology using ubuntu Desktop and install pfsense-Snort packets on it. However, I encountered a few problems with the first installation and had to switch to kali-Linux instead. This also required me to modify few of the drawings.
+**+ Home-Lab Topology:** My initial plan was to set up a home lab topology using ubuntu Desktop and install pfsense-Snort packets on it. However, I encountered a few problems with the first installation and had to switch to kali-Linux instead. This also required me to modify few of the drawings.
 
-**☑One of the final issues:** I ran into was having internet connectivity on Ubuntu or Kali machine, making unable to access pfSense and Splunk Enterprise interfaces. The issue was resolve by checking the settings of each VM and ensuring that they had the correct internal network and/or bridged adapter configured. This also required VM restarts after changing the network settings. (it was time consuming and frustration process for this part of the lab settings).
+**+ One of the final issues:** I ran into was having internet connectivity on Ubuntu or Kali machine, making unable to access pfSense and Splunk Enterprise interfaces. The issue was resolve by checking the settings of each VM and ensuring that they had the correct internal network and/or bridged adapter configured. This also required VM restarts after changing the network settings. (it was time consuming and frustration process for this part of the lab settings).
 
 ##
 <h3 align="center"> What I had learned from this lab environment setup are:
 
 ##
-**	It is important to follow the instructions carefully and verify each step before proceeding to the next one. (especially when we are going to set up the network of each machine).
+**☑It is important to follow the instructions carefully and verify each step before proceeding to the next one. (especially when we are going to set up the network of each machine).
 
-	 It is useful to have a backup plan in case something goes wrong, or the expected results are not complete. (Make sure to do a clone machine or snapshot to make easy the process if we need to start all over again).
-
-
-	 It is beneficial to document the process and the outcomes for future reference and improvement.
-
-	Instead of struggling alone, reach out to someone who can assist you and teach you something new. You can also take a break and refresh your mind before tackling the problem again. Both strategies can help you overcome obstacles and achieve your goals.
+**☑ It is useful to have a backup plan in case something goes wrong, or the expected results are not complete. (Make sure to do a clone machine or snapshot to make easy the process if we need to start all over again).
 
 
-	 It is challenging to troubleshoot and resolve issues that may arise during the setup, but it is also rewarding to learn from them.
+**☑ It is beneficial to document the process and the outcomes for future reference and improvement.
+
+**☑ Instead of struggling alone, reach out to someone who can assist you and teach you something new. You can also take a break and refresh your mind before tackling the problem again. Both strategies can help you overcome obstacles and achieve your goals.
+
+
+**☑ It is challenging to troubleshoot and resolve issues that may arise during the setup, but it is also rewarding to learn from them.
 
 
