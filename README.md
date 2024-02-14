@@ -34,10 +34,11 @@ In this Project I had learned how to create a cybersecurity home-lab from scratc
 + The first component of our virtual home lab is the Host PC. It must meet the minimum hardware/software requirements to support the tasks and configuration we will perform.
 + I use VirtualBox Workstation, which allows us to run multiple virtual machines simultaneously on one system.
 + I set up a secure network environment using Ubuntu, pfSense, and Snort. First, I installed Ubuntu desktop on a host machine and configured its settings according to lab needs.
-+ I installed pfSense firewall on another machine and connected it to the host machine. pfSense firewall is a powerful tool that allows us to create network  segments and apply security policies to them. I also installed Snort on the pfSense machine, which is a software that monitors network traffic and detects intrusions, threats, and anomalies. By using these tools, we were able to create a comprehensive solution for network security and management.
-+ I install and configure Splunk on an ubuntu terminal, as well Splunk forwarder packets server as the home lab SIEM tool. That grabs data from different areas  of your lab such as firewalls or servers and sends it to Splunk. This lets us check the network’s safety by reviewing the collected data.
-+ I install and configure Metasploitable 2 in the VirtualBox to create   a virtual machine intentionally vulnerable for testing security tools and demonstrating common vulnerabilities.
-+ I prepared Kali Linux, to be the attacker machine since it a potent tool designed for conducting penetration testing and security audits.
++ I installed pfSense firewall on another machine and connected it to the host machine. pfSense firewall is a powerful tool that allows us to create network  segments and apply security policies to them.
++ I also installed Snort on the pfSense machine, which is a software that monitors network traffic and detects intrusions, threats, and anomalies. By using these tools, we were able to create a comprehensive solution for network security and management.
++ I installed and configure Splunk on an ubuntu terminal, as well Splunk forwarder packets server as the home lab SIEM tool. That grabs data from different areas  of your lab such as firewalls or servers and sends it to Splunk. This lets us check the network’s safety by reviewing the collected data.
++ I installed and configure Metasploitable 2 in the VirtualBox to create   a virtual machine intentionally vulnerable for testing security tools and demonstrating common vulnerabilities.
++ I installed and  prepared Kali Linux, to be the attacker machine since it a potent tool designed for conducting penetration testing and security audits.
 
 #### Kali Linux
  ![image](https://github.com/ellaowens/Cybersecurity-Lab/assets/114102710/851c2480-f850-450b-8b2f-c3c43bc2f2a3)
