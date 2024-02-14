@@ -83,6 +83,7 @@ I spent a lot of time trying to fix the installation issues. I followed the trou
 **☑ PFSense Updating:** when I did the installation of pfSense in the virtual machine I used version 2.7.0 which worked fine, I was able to Install Snort Packets but when I was try the home lab, I had to update to version 2.7.2 which created an error on Snort packets I had to Re-install Snort.
 
 **☑ Ubuntu installation:** I was using Desktop the Installation was a straightforward process. I installed the PFSense & Snort and ended It was running perfect but when I was trying to test the home lab had several compatibility issues, such as unable to login in pfSense, Firefox was too slow, I end up uninstalling & reinstalling Ubuntu and declining automatic updates for Ubuntu. 
+
 **☑ Kali-Linux installation:** I successfully downloaded and set up a new virtual machine in VirtualBox. It was the first software I installed, but I encountered few problems when I did the updated version of the VirtualBox from 6.1 to 7.1 version. I could not get it to work, so I uninstalled and reinstalled the software.
 
 **☑ Home-Lab Topology:** My initial plan was to set up a home lab topology using ubuntu Desktop and install pfsense-Snort packets on it. However, I encountered a few problems with the first installation and had to switch to kali-Linux instead. This also required me to modify few of the drawings.
