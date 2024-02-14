@@ -41,10 +41,9 @@ In this Project I had learned how to create a cybersecurity home-lab from scratc
 + I installed and  prepared Kali Linux, to be the attacker machine since it a potent tool designed for conducting penetration testing and security audits.
 
 #### Virtual Box
+![virtual](https://github.com/luzritacco/Cybersecurity-Home-Lab/assets/151267325/6aff4d11-5782-4649-a436-336cadb0c21a)
 
-![virtual](https://github.com/luzritacco/Cybersecurity-Home-Lab/assets/151267325/202cb127-7753-4ead-a88d-49cd71391ac2)
-
-![vitual lab](https://github.com/luzritacco/Cybersecurity-Home-Lab/assets/151267325/e393d398-e8c3-4ed4-9e5a-774a5678a177)
+![vitual lab](https://github.com/luzritacco/Cybersecurity-Home-Lab/assets/151267325/4fb33b0d-400c-4d5a-8995-cc2ed65ec714)
 
 
 
