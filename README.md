@@ -40,12 +40,27 @@ In this Project I had learned how to create a cybersecurity home-lab from scratc
 + I installed and configure Metasploitable 2 in the VirtualBox to create   a virtual machine intentionally vulnerable for testing security tools and demonstrating common vulnerabilities.
 + I installed and  prepared Kali Linux, to be the attacker machine since it a potent tool designed for conducting penetration testing and security audits.
 
-#### Kali Linux
- ![image](https://github.com/ellaowens/Cybersecurity-Lab/assets/114102710/851c2480-f850-450b-8b2f-c3c43bc2f2a3)
+#### Virtual Box
+![vitual lab](https://github.com/luzritacco/Cybersecurity-Home-Lab/assets/151267325/e393d398-e8c3-4ed4-9e5a-774a5678a177)
 
-#### Metasploitable
- ![image](https://github.com/ellaowens/Cybersecurity-Lab/assets/114102710/9d4e0971-d903-4ac8-9ac4-f2752a17855d)
+
+#### Kali Linux
+![kali-metas 2](https://github.com/luzritacco/Cybersecurity-Home-Lab/assets/151267325/dad5014c-3f4c-40b1-99ad-b3467a32c111)
+
+
+#### Metasploitable 2
+![metasploitable-vitual](https://github.com/luzritacco/Cybersecurity-Home-Lab/assets/151267325/60bb7994-84dd-49a1-be0d-54121d8eb728)
+
 
 #### Splunk
- ![image](https://github.com/ellaowens/Cybersecurity-Lab/assets/114102710/da5c965c-5349-49a9-8990-0a0c958a0565)
- ![image](https://github.com/ellaowens/Cybersecurity-Lab/assets/114102710/4b7f0263-6eb0-46f4-94b9-f166a0a7ecb5)
+
+![splunk fowarder installation](https://github.com/luzritacco/Cybersecurity-Home-Lab/assets/151267325/95db411c-f7cc-4338-96d2-bb3ebc4e5ea0)
+
+#### pFsense
+
+![pfsense-ubutu](https://github.com/luzritacco/Cybersecurity-Home-Lab/assets/151267325/67c6a95c-97a7-45d3-b564-5739e2268221)
+
+#### The Virtual Home-Lab
+
+![My homelab](https://github.com/luzritacco/Cybersecurity-Home-Lab/assets/151267325/bf8237b2-fe49-4324-8b1e-58d19472b189)
+
