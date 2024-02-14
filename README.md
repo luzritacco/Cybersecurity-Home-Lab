@@ -1,6 +1,4 @@
-<h1 align="center">Cybersecurit![Screenshot 2023-12-31 012624](https://github.com/luzritacco/Cybersecurity-Home-Lab/assets/151267325/940cfa9c-1a81-48f5-81d7-90c46e0910e9)
-y Home Lab:</h1>
-
+<h1 align="center">Cybersecurity Home-Lab.</h1>
 
 As part of my learning experience at TKH, I designed and implemented a Cybersecurity Home Lab to demonstrate my knowledge and technical skills. I used Linux Terminal Operations, Networking Fundamentals, and Cybersecurity Concepts and Tools to set up a secure home network. 
 
