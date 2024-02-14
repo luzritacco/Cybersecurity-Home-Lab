@@ -47,6 +47,7 @@ In this Project I had learned how to create a cybersecurity home-lab from scratc
 #### Kali Linux
 ![kali-metas 2](https://github.com/luzritacco/Cybersecurity-Home-Lab/assets/151267325/dad5014c-3f4c-40b1-99ad-b3467a32c111)
 
+![kali-metasploitable](https://github.com/luzritacco/Cybersecurity-Home-Lab/assets/151267325/6c75bcfb-52a3-4204-8712-83a9d9132813)
 
 #### Metasploitable 2
 ![metasploitable-vitual](https://github.com/luzritacco/Cybersecurity-Home-Lab/assets/151267325/60bb7994-84dd-49a1-be0d-54121d8eb728)
