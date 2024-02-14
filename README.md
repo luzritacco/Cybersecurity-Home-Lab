@@ -16,7 +16,8 @@ In this Project I had learned how to create a cybersecurity home-lab from scratc
 ##
 <h3 align="center"> The network diagram -layout- topology of my cybersecurity home  lab setup:
 
- <img width="468" alt="image" src="https://github.com/ellaowens/Cybersecurity-Lab/assets/114102710/e8952ce4-33eb-4ab6-9f54-d827d2610c2a"></h3>
+
+![Screenshot 2024-01-03 191635](https://github.com/luzritacco/Cybersecurity-Home-Lab/assets/151267325/0022d569-361b-457e-8f87-cc7ddd4f88e6)
 
 ##
 <h3 align="center"> For my security lab, created in Virtualbox on Windows, I downloaded, installed and configured various components, services, and tools. This included Ubuntu, Snort, Suricata, Splunk, pfSense, Kali Linux, Metasploitable, and much more.</h3>
