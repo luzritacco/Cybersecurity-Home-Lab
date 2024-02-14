@@ -100,14 +100,16 @@ I spent a lot of time trying to fix the installation issues. I followed the trou
 
 **☑ It is useful to have a backup plan** in case something goes wrong, or the expected results are not complete. (Make sure to do a clone machine or snapshot to make easy the process if       we need to start all over again).
 
-**☑ It is beneficial to document the process** and the outcomes for future reference and improvement.
+**☑ It is beneficial to document the process** and the outcomes for future reference and improvements.
 
 **☑ Instead of struggling alone**, reach out to someone who can assist you and teach you something new. You can also take a break and refresh your mind before tackling the problem again       Both strategies can help you overcome obstacles and achieve your goals.
 
 **☑ It is challenging to troubleshoot** and resolve issues that may arise during the setup, but it is also rewarding to learn from them.
 
 ##
-<h3 align="center">Conclusion
-##
+<h3 align="center"> Conclusion
+
+ 
+ ##
 
 This Virtual security home lab is a setup in our home that simulates a professional network environment. It has various components and tools that we can use to learn and practice various aspects of cybersecurity. It is a safe place to test our skills and learn from our mistakes. It is important to use a separate setup for your lab, one that does not hold any critical data like personal files or sensitive information. This setup will serve as your experimental-learning lab.
