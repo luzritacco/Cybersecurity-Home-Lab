@@ -20,7 +20,8 @@ In this Project I had learned how to create a cybersecurity home-lab from scratc
 ![Screenshot 2024-01-03 191635](https://github.com/luzritacco/Cybersecurity-Home-Lab/assets/151267325/0022d569-361b-457e-8f87-cc7ddd4f88e6)
 
 ##
-<h3 align="center"> For my security lab, created in Virtualbox on Windows, I downloaded, installed and configured various components, services, and tools. This included Ubuntu, Snort, Suricata, Splunk, pfSense, Kali Linux, Metasploitable, and much more.</h3>
+<h3 align="center"> Setting and preparing the Virtual Home-Lab
+ For my security lab, created in Virtualbox on Windows, I downloaded, installed and configured various components, services, and tools. This included Ubuntu, Snort, Suricata, Splunk, pfSense, Kali Linux, Metasploitable, and much more.</h3>
 
 #### Kali Linux
  ![image](https://github.com/ellaowens/Cybersecurity-Lab/assets/114102710/851c2480-f850-450b-8b2f-c3c43bc2f2a3)
