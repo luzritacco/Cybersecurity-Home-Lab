@@ -74,10 +74,11 @@ In this Project I had learned how to create a cybersecurity home-lab from scratc
 <h3 align="center"> Here some issues I went into during the installation and setting up process:
 
 ##
-+**Metasplitable2 installation:** I had some issues installing Metasploitable2 in the VirtualBox such as:
++ **Metasplitable2 installation:** I had some issues installing Metasploitable2 in the VirtualBox such as:
   + The virtual machine gets stuck at the startup screen.
   + The installation process fails due to an error.
   + The virtual machine does not boot after installation.
+    
 I spent a lot of time trying to fix the installation issues. I followed the troubleshooting steps, but nothing worked. I had to uninstall and reinstall the software several times, but I still encountered errors. I need assistance so I can be guided through the process and had helped on resolve the problem. Finally, I was able to install a working machine.
 
 + **PFSense Updating:** when I did the installation of pfSense in the virtual machine I used version 2.7.0 which worked fine, I was able to Install Snort Packets but when I was try the home lab, I had to update to version 2.7.2 which created an error on Snort packets I had to Re-install Snort.
