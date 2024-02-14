@@ -6,7 +6,9 @@ In this Project I had learned how to create a cybersecurity home-lab from scratc
 
 
 ###
-<h3 align="center">My paper provides a comprehensive overview of the tools and services that I use in my security home lab. I describe the functionality, purpose, and relevance of each tool and service in the context of the security industry.
+<h3 align="center">Documentation of the home-lab
+ ##
+ My paper provides a comprehensive overview of the tools and services that I use in my security home lab. I describe the functionality, purpose, and relevance of each tool and service in the context of the security industry.
 
 #### Here's a fragment of my detail- paper:
 ##
