@@ -31,9 +31,9 @@ In this Project I had learned how to create a cybersecurity home-lab from scratc
 
 
  ##
--The first component of our virtual home lab is the Host PC. It must meet the minimum hardware/software requirements to support the tasks and configuration we will perform.
+(-)The first component of our virtual home lab is the Host PC. It must meet the minimum hardware/software requirements to support the tasks and configuration we will perform.
 -I use VirtualBox Workstation, which allows us to run multiple virtual machines simultaneously on one system.
-*I set up a secure network environment using Ubuntu, pfSense, and Snort. First, I installed Ubuntu desktop on a host machine and configured its settings according to lab needs.
+(*)I set up a secure network environment using Ubuntu, pfSense, and Snort. First, I installed Ubuntu desktop on a host machine and configured its settings according to lab needs.
 4.I installed pfSense firewall on another machine and connected it to the host machine. pfSense firewall is a powerful tool that allows us to create network   
   segments and apply security policies to them. I also installed Snort on the pfSense machine, which is a software that monitors network traffic and detects 
   intrusions, threats, and anomalies. By using these tools, we were able to create a comprehensive solution for network security and management.
