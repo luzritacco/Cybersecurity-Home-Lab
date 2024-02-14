@@ -68,3 +68,14 @@ In this Project I had learned how to create a cybersecurity home-lab from scratc
 
 ![My homelab](https://github.com/luzritacco/Cybersecurity-Home-Lab/assets/151267325/bf8237b2-fe49-4324-8b1e-58d19472b189)
 
+
+##
+
+<h3 align="center"> Here some issues I went into during the installation and setting up process:
+
+##
++☑ Metasplitable2 installation: I had some issues installing Metasploitable2 in the VirtualBox such as:
+•	The virtual machine gets stuck at the startup screen.
+•	The installation process fails due to an error.
+•	The virtual machine does not boot after installation.
+
